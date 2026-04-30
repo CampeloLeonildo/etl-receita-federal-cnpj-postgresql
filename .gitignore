@@ -23,6 +23,7 @@ EXTRACTED_FILES/
 *.zip
 *.csv
 *.txt
+!requirements.txt
 
 # VS Code
 .vscode/
@@ -30,3 +31,4 @@ EXTRACTED_FILES/
 # Sistema operacional
 Thumbs.db
 .DS_Store
+
