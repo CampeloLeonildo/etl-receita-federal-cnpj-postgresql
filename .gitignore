@@ -1,0 +1,32 @@
+# Arquivo com credenciais reais
+.env
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ambientes virtuais
+venv/
+.venv/
+RFB_ETL_Postegree/
+
+# Dados baixados e extraídos
+Dados_RFB/
+OUTPUT_FILES/
+EXTRACTED_FILES/
+*.zip
+*.csv
+*.txt
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
